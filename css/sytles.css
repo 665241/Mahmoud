@@ -1,0 +1,31 @@
+body
+{
+    background-color: chocolate;
+    
+}
+
+h1
+{
+color: azure;
+font: bold;
+font-size: 50px;
+}
+
+h2
+{
+color:aqua;
+font-size: 25px;
+}
+
+.btngan{
+font-size: xx-small;
+}
+
+.manga{
+    font-size: xx-large;
+}
+
+img {
+    width: 500px;
+}
+
